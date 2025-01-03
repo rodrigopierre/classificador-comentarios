@@ -1,0 +1,424 @@
+text;label
+"""Adorei o produto, � incr�vel!""";1
+"""Horr�vel! N�o recomendo para ningu�m.""";0
+"""Entrega foi super r�pida e eficiente.""";1
+"""O atendimento ao cliente � p�ssimo.""";0
+"""Muito feliz com a minha compra, valeu a pena.""";1
+"""Produto veio quebrado, uma decep��o total.""";0
+"""Tudo conforme o esperado, parab�ns!""";1
+"""Uma experi�ncia muito ruim, me arrependi.""";0
+"""Gostei muito do atendimento, voltarei a comprar.""";1
+"""P�ssima qualidade, parece descart�vel.""";0
+"""Nota 10 para o servi�o, superou minhas expectativas.""";1
+"""Infelizmente n�o gostei, n�o funcionou como prometido.""";0
+"""Tudo certo, sem problemas. Recomendo.""";1
+"""Me decepcionei, esperava mais do produto.""";0
+"""�timo custo-benef�cio, estou satisfeito.""";1
+"""Demorou muito para chegar e n�o valeu a espera.""";0
+"""Fiquei impressionado com a qualidade.""";1
+"""N�o presta, joguei meu dinheiro fora.""";0
+"""Minha fam�lia adorou, foi uma �tima compra.""";1
+"""Nunca mais compro nessa loja, que horror!""";0
+"""Adorei o produto, � incr�vel!""";1
+"""Entrega super r�pida, chegou antes do prazo.""";1
+"""Perfeito, exatamente o que eu precisava!""";1
+"""Qualidade excelente, vale cada centavo.""";1
+"""Atendimento nota 10, resolveram meu problema na hora.""";1
+"""Recomendo para todo mundo, � muito bom!""";1
+"""Minha experi�ncia foi �tima, super satisfeita.""";1
+"""Comprei sem expectativas, mas me surpreendeu!""";1
+"""O produto veio bem embalado e funciona perfeitamente.""";1
+"""Com certeza comprarei de novo, adorei!""";1
+"""Servi�o de primeira qualidade, parab�ns � equipe.""";1
+"""Muito top, recomendo de olhos fechados!""";1
+"""Meus amigos adoraram, vou comprar mais.""";1
+"""Fiquei muito feliz com o atendimento personalizado.""";1
+"""Que produto maravilhoso, superou todas as minhas expectativas.""";1
+"""Minha melhor compra do ano!""";1
+"""�timo custo-benef�cio, fiquei impressionado.""";1
+"""Nota 10 em todos os aspectos.""";1
+"""Produto pr�tico e eficiente, me ajuda muito no dia a dia.""";1
+"""Amei, vale muito a pena. Obrigada!""";1
+"""Recomendo 100%, � excelente!""";1
+"""Fui muito bem atendido, que equipe incr�vel!""";1
+"""Veio tudo certinho, estou muito satisfeito.""";1
+"""Experi�ncia maravilhosa, foi melhor do que imaginei.""";1
+"""Produto de alta qualidade, merece destaque.""";1
+"""O melhor que j� usei, vale cada centavo!""";1
+"""Estou apaixonado, n�o fico mais sem isso.""";1
+"""Muito obrigado, voc�s foram perfeitos!""";1
+"""Simplesmente perfeito, n�o mudaria nada.""";1
+"""Entrega no prazo, qualidade impec�vel.""";1
+"""Horr�vel! N�o recomendo para ningu�m.""";0
+"""O produto veio quebrado, uma decep��o total.""";0
+"""Demorou demais para chegar, perdi a paci�ncia.""";0
+"""P�ssima qualidade, parece descart�vel.""";0
+"""O atendimento ao cliente � p�ssimo, nunca mais compro.""";0
+"""Produto caro e n�o funciona como prometido.""";0
+"""Infelizmente me arrependi de comprar, que lixo!""";0
+"""N�o vale o pre�o, dinheiro jogado fora.""";0
+"""Muita propaganda, mas na pr�tica � ruim.""";0
+"""O produto � mal feito e fr�gil, desisti de usar.""";0
+"""Me decepcionei, esperava muito mais.""";0
+"""Demorou para entregar e ainda veio errado.""";0
+"""O suporte t�cnico n�o resolve nada, perdi meu tempo.""";0
+"""Nunca mais compro dessa loja, p�ssima experi�ncia.""";0
+"""O produto parece bom, mas n�o funciona direito.""";0
+"""Um verdadeiro desperd�cio de dinheiro.""";0
+"""Servi�o lento e atendimento despreparado.""";0
+"""N�o atendeu minhas expectativas, muito ruim.""";0
+"""A descri��o n�o corresponde � realidade, enganoso.""";0
+"""Que absurdo, o produto veio usado!""";0
+"""Muito barulho para nada, n�o vale a pena.""";0
+"""Desapontado com a qualidade, deixaram a desejar.""";0
+"""Produto dif�cil de usar e mal explicado.""";0
+"""O cheiro do produto � horr�vel, imposs�vel usar.""";0
+"""A pior compra que j� fiz na vida!""";0
+"""Que desorganiza��o, nunca mais compro aqui.""";0
+"""Produto bonito, mas n�o funciona. Engana��o!""";0
+"""Uma experi�ncia frustrante do in�cio ao fim.""";0
+"""Devolvi no mesmo dia, horr�vel.""";0
+"""Muito ruim, parece algo de segunda m�o.""";0
+"""Top demais! Recomendo!""";1
+"""Show, adorei!""";1
+"""Nota mil!""";1
+"""Superou tudo!""";1
+"""Muito bom, valeu!""";1
+"""Comprei desconfiada, mas � �timo, valeu cada centavo!""";1
+"""Chegou no prazo e funcionando perfeitamente, tudo certo.""";1
+"""A loja � �tima, atendimento r�pido e eficiente.""";1
+"""Produto maravilhoso, a galera aqui em casa adorou!""";1
+"""Gostei muito, veio tudo certinho e bem embalado.""";1
+"""Esse produto � simplesmente incr�vel! Comprei para testar e fiquei apaixonado. J� indiquei para os amigos e vou comprar outro para presentear minha m�e.""";1
+"""Minha experi�ncia foi excelente! O atendimento foi r�pido e resolveram minhas d�vidas. O produto chegou antes do prazo, super recomendo.""";1
+"""Olha, fazia tempo que eu n�o comprava algo que realmente valesse a pena. Esse produto � de alt�ssima qualidade e ainda veio com um brinde. Amei!""";1
+"""Comprei por indica��o de um amigo e n�o me arrependi. A entrega foi super r�pida, o produto � lindo e funciona perfeitamente. J� sou cliente fiel!""";1
+"""Trem b�o demais da conta! J� t� indicando pra turma toda aqui em BH.""";1
+"""Rapaz, esse produto � arretado de bom, viu? Pode comprar sem medo!""";1
+"""�h coisa boa, viu? A entrega foi ligeira e veio tudo no capricho!""";1
+"""Gurizada, � muito bom mesmo, me quebrou um galho danado aqui!""";1
+"""Achei massa demais, do jeitinho que eu precisava.""";1
+"""Muito top!""";1
+"""Horr�vel, n�o presta!""";0
+"""Dinheiro jogado fora.""";0
+"""Nunca mais compro.""";0
+"""Decepcionante demais!""";0
+"""Lixo total.""";0
+"""O produto que chegou n�o tem nada a ver com o que eu comprei, fiquei muito chateada.""";0
+"""Veio com defeito e demoraram semanas para resolver, experi�ncia p�ssima.""";0
+"""Paguei caro e recebi algo de qualidade inferior, nunca mais!""";0
+"""A loja n�o tem compromisso com o cliente, fui muito mal atendido.""";0
+"""Tive um problema e o suporte simplesmente ignorou minhas mensagens.""";0
+"""Fiquei extremamente decepcionado. A embalagem chegou toda amassada, o produto est� com defeito e o suporte n�o resolve nada. N�o recomendo para ningu�m.""";0
+"""Essa foi a pior experi�ncia de compra que j� tive. Al�m de atrasarem a entrega, o produto veio errado. Pedi o reembolso e ainda n�o me devolveram o dinheiro.""";0
+"""Achei o produto caro para a qualidade que oferece. O material � fr�gil e parece que vai quebrar a qualquer momento. Me arrependi completamente.""";0
+"""Se eu soubesse que seria t�o ruim, nem teria comprado. N�o funcionou direito, o suporte foi ineficiente e o prazo de entrega foi absurdamente longo.""";0
+"""� trem ruim! Nunca vi um tro�o t�o sem qualidade.""";0
+"""Arre �gua, isso a� foi um desperd�cio de dinheiro, viu?""";0
+"""Tava desconfiado, mas comprei. Agora t� � arrependido, p�ssimo!""";0
+"""N�o presta, galera! Aqui no sul, ningu�m recomenda essa marca.""";0
+"""Que porcaria, chegou tudo errado e n�o resolveram nada, desorganiza��o total.""";0
+"""Esse notebook � perfeito para quem trabalha com edi��o de v�deo, super r�pido e eficiente.""";1
+"""O celular tem uma bateria incr�vel, dura o dia inteiro, mesmo com uso intenso.""";1
+"""Comprei a TV e a qualidade da imagem � sensacional, parece um cinema em casa.""";1
+"""Esse restaurante tem a melhor feijoada que j� comi, super saborosa!""";1
+"""As pizzas dessa pizzaria s�o gigantes e bem recheadas, vale cada centavo.""";1
+"""O caf� desse lugar � delicioso, parece feito na hora com gr�os fresquinhos.""";1
+"""Que s�rie incr�vel, me prendeu do in�cio ao fim! Mal posso esperar pela pr�xima temporada.""";1
+"""O filme tem uma hist�ria emocionante, chorei do come�o ao final.""";1
+"""�tima escolha para uma noite em fam�lia, o filme � divertido e cheio de li��es.""";1
+"""Esse app mudou minha rotina, muito f�cil de usar e super �til.""";1
+"""Gostei bastante do design do app, tudo � muito intuitivo e r�pido.""";1
+"""Recomendo pra quem quer aprender idiomas, estou progredindo muito r�pido.""";1
+"""O show foi maravilhoso, estrutura excelente e som impec�vel.""";1
+"""Que festa linda, tudo estava organizado e divertido. Amei!""";1
+"""A palestra foi muito inspiradora, adorei cada detalhe.""";1
+"""Esse curso � muito completo, aprendi mais do que esperava!""";1
+"""As aulas s�o did�ticas e o material de apoio � excelente.""";1
+"""Valeu cada centavo, me ajudou muito no trabalho.""";1
+"""O motorista foi super educado e o carro estava limpo e confort�vel.""";1
+"""Chegou super r�pido, adorei o servi�o de transporte.""";1
+"""A experi�ncia com o trem foi �tima, pontual e eficiente.""";1
+"""O notebook trava toda hora, n�o d� pra trabalhar direito.""";0
+"""A c�mera do celular � horr�vel, as fotos saem sempre borradas.""";0
+"""A TV n�o durou nem seis meses e j� deu problema, uma decep��o.""";0
+"""O restaurante demorou mais de uma hora para servir a comida e ainda veio fria.""";0
+"""As pizzas chegaram queimadas e sem recheio, nunca mais pe�o aqui.""";0
+"""O caf� estava amargo e com gosto de queimado, p�ssima experi�ncia.""";0
+"""A s�rie � chata e arrastada, desisti no terceiro epis�dio.""";0
+"""O filme tem um roteiro previs�vel e atua��es p�ssimas.""";0
+"""Pior escolha para um domingo � noite, que perda de tempo!""";0
+"""O app � cheio de bugs, n�o consigo usar direito.""";0
+"""� pesado demais para o celular, trava toda hora.""";0
+"""A interface � confusa e n�o cumpre o que promete.""";0
+"""O show foi um caos, som ruim e organiza��o p�ssima.""";0
+"""A festa estava cheia demais, mal dava pra se mexer.""";0
+"""O palestrante parecia despreparado, foi bem fraco.""";0
+"""Aulas cansativas e sem profundidade, n�o vale o pre�o.""";0
+"""O suporte do curso � p�ssimo, nunca respondem as d�vidas.""";0
+"""Material desatualizado e pouco �til para o mercado atual.""";0
+"""O motorista era grosseiro e o carro estava sujo.""";0
+"""Demoraram mais de 40 minutos para me buscar, p�ssimo servi�o.""";0
+"""O trem estava lotado e atrasou muito, horr�vel!""";0
+"""Comprei esse tablet e ele � incr�vel, leve e super r�pido.""";1
+"""O smartwatch � perfeito, me ajuda a monitorar minha sa�de o dia todo.""";1
+"""Essa nova vers�o do software est� impec�vel, muito intuitiva.""";1
+"""Melhor churrasco da vida, a carne estava no ponto certo!""";1
+"""O bolo que pedi chegou fresco e delicioso, nota 10.""";1
+"""Achei incr�vel o card�pio, tem op��es para todos os gostos.""";1
+"""Que document�rio inspirador, j� vi duas vezes!""";1
+"""O filme � super engra�ado, ri do come�o ao fim.""";1
+"""Essa s�rie foi a melhor coisa que assisti esse ano, perfeita!""";1
+"""A atualiza��o trouxe fun��es incr�veis, muito satisfeito!""";1
+"""O app de medita��o � super �til, me ajuda todos os dias.""";1
+"""Achei o design muito bonito e f�cil de usar, parab�ns!""";1
+"""O festival foi maravilhoso, me diverti muito e tudo estava bem organizado.""";1
+"""Adorei o casamento, cada detalhe estava impec�vel.""";1
+"""O show foi uma experi�ncia inesquec�vel, recomendo muito!""";1
+"""Os professores s�o muito atenciosos, aprendi r�pido!""";1
+"""O curso � direto ao ponto, perfeito para quem tem pouco tempo.""";1
+"""A plataforma � super intuitiva e o conte�do excelente.""";1
+"""A experi�ncia com o transporte p�blico foi �tima, tudo pontual.""";1
+"""O t�xi chegou r�pido e o motorista foi super educado.""";1
+"""Muito confort�vel a viagem de �nibus, parab�ns � empresa.""";1
+"""Pensa num produto b�o! Comprei aqui em Minas e j� indiquei.""";1
+"""Rapaz, esse servi�o � arretado de bom, nota 10.""";1
+"""�timo atendimento, gurizada aqui adorou!""";1
+"""A academia tem �timos hor�rios e professores excelentes.""";1
+"""Adorei a loja online, tudo chegou perfeito e r�pido.""";1
+"""Esse hotel tem a melhor vista da cidade, super aconchegante.""";1
+"""A trilha foi desafiadora, mas linda. Valeu a pena!""";1
+"""Minha estadia no resort foi maravilhosa, equipe nota 10.""";1
+"""As roupas da loja s�o incr�veis, comprei v�rias pe�as.""";1
+"""Comprei o fone de ouvido e ele parou de funcionar na primeira semana.""";0
+"""A atualiza��o deixou o sistema lento e cheio de bugs.""";0
+"""Pior investimento que fiz, o celular � uma decep��o.""";0
+"""O lanche chegou frio e o refrigerante veio sem g�s.""";0
+"""O restaurante cobrou a mais e a comida estava sem gosto.""";0
+"""A carne estava dura e imposs�vel de cortar, muito ruim.""";0
+"""Esse filme � muito confuso, n�o faz sentido nenhum.""";0
+"""A s�rie tem uma hist�ria fraca e personagens sem carisma.""";0
+"""P�ssima escolha para assistir, totalmente sem gra�a.""";0
+"""O app tem muitas propagandas, imposs�vel usar direito.""";0
+"""A funcionalidade principal n�o funciona, uma decep��o.""";0
+"""Parece que ningu�m testou esse app antes de lan�ar, horr�vel.""";0
+"""A organiza��o do evento foi p�ssima, filas enormes e atraso.""";0
+"""O casamento foi uma bagun�a, atrasaram horas.""";0
+"""O som no show estava ruim, n�o dava para ouvir direito.""";0
+"""Achei o curso muito superficial, n�o vale o pre�o.""";0
+"""A plataforma � lenta e trava toda hora, experi�ncia frustrante.""";0
+"""Os materiais est�o desatualizados, n�o recomendo.""";0
+"""O �nibus atrasou muito e estava lotado, horr�vel.""";0
+"""O motorista do t�xi foi rude e n�o sabia o caminho.""";0
+"""Peguei um transporte por aplicativo e o carro estava sujo.""";0
+"""Trem ruim demais, comprei e me arrependi na hora.""";0
+"""Rapaz, esse servi�o � uma decep��o, viu?""";0
+"""Que desorganiza��o, galera aqui ficou revoltada.""";0
+"""A academia est� sempre cheia e os aparelhos vivem quebrados.""";0
+"""A loja online enviou o produto errado e demorou semanas para trocar.""";0
+"""O hotel tem um atendimento p�ssimo, nunca volto l�.""";0
+"""A trilha � mal sinalizada e perigosa, n�o recomendo.""";0
+"""O resort estava lotado e o quarto com cheiro ruim.""";0
+"""Comprei uma roupa que veio com defeito, muito chateado.""";0
+"""Este produto superou minhas expectativas, excelente!""";1
+"""Amei o atendimento, muito atenciosos!""";1
+"""Comprei e estou adorando, muito bom!""";1
+"""A entrega foi r�pida, e o produto � de �tima qualidade!""";1
+"""Fiquei muito feliz com minha compra, tudo perfeito!""";1
+"""Atendimento excelente, com certeza voltarei a comprar.""";1
+"""Super recomendo, muito melhor do que eu imaginava.""";1
+"""Estava com receio, mas me surpreendi positivamente!""";1
+"""O produto � incr�vel, vou comprar mais!""";1
+"""Estou muito satisfeito com a compra, 100% aprovado!""";1
+"""O atendimento foi excepcional, todos muito educados.""";1
+"""Comprei para minha m�e, ela adorou, ficou muito feliz.""";1
+"""Adorei o design, muito bonito e funcional!""";1
+"""O servi�o foi r�pido e eficiente, como sempre.""";1
+"""Sem d�vida, um dos melhores produtos que j� adquiri.""";1
+"""O sabor � maravilhoso, super recomendo!""";1
+"""Fiquei impressionado com a durabilidade, vale a pena.""";1
+"""Entrega super r�pida e produto de qualidade.""";1
+"""O produto chegou bem embalado, sem defeitos, �timo!""";1
+"""A qualidade do material � excelente, super confort�vel.""";1
+"""Sempre compro aqui, nunca tive problemas.""";1
+"""Gostei muito da experi�ncia, tudo foi perfeito!""";1
+"""O servi�o foi impec�vel, muito mais do que eu esperava.""";1
+"""Produto de �tima qualidade, entrega dentro do prazo.""";1
+"""� exatamente o que eu procurava, estou muito feliz!""";1
+"""Recomendo de olhos fechados, vale o investimento.""";1
+"""Excelente custo-benef�cio, n�o me arrependo de nada.""";1
+"""Adoro esse lugar, atendimento de primeira!""";1
+"""Produto maravilhoso, chegou at� antes do esperado.""";1
+"""Acho que encontrei a solu��o perfeita, gostei muito.""";1
+"""Muito bom, gostei do acabamento e da funcionalidade.""";1
+"""Atendimento r�pido e eficiente, com certeza vou voltar.""";1
+"""Estou encantado, o produto � de excelente qualidade.""";1
+"""Entrega no prazo, tudo conforme o esperado!""";1
+"""Estou muito feliz com o produto, super recomendo.""";1
+"""Excelente op��o, realmente vale o que custa.""";1
+"""J� sou cliente fiel, nunca me decepcionaram.""";1
+"""Experi�ncia maravilhosa, tudo perfeito!""";1
+"""Produto de alta qualidade, atendeu completamente minhas necessidades.""";1
+"""O servi�o foi impec�vel, sem problemas!""";1
+"""� exatamente o que eu esperava, uma excelente compra.""";1
+"""Gostei muito do que comprei, entrega r�pida e eficiente.""";1
+"""Estou impressionado com a qualidade, valeu cada centavo.""";1
+"""Muito bom, cumpre o que promete.""";1
+"""Atendimento excelente, me senti muito bem atendido.""";1
+"""Adorei a embalagem, chegou tudo perfeito!""";1
+"""Produto muito bom, vale a pena o investimento.""";1
+"""Estou extremamente satisfeito com a compra, recomendo!""";1
+"""Adorei a compra, o produto � de primeira qualidade.""";1
+"""Uma experi�ncia muito positiva, vou comprar de novo com certeza!""";1
+"""Produto chegou com defeito, muito decepcionado.""";0
+"""N�o gostei, n�o atende �s minhas expectativas.""";0
+"""Comprei e o produto n�o funciona como esperado.""";0
+"""O atendimento foi horr�vel, ningu�m me ajudou.""";0
+"""Produto de baixa qualidade, n�o vale o que custa.""";0
+"""A entrega demorou demais, n�o gostei disso.""";0
+"""Recebi o produto errado, uma grande decep��o.""";0
+"""N�o recomendo, o produto n�o funciona direito.""";0
+"""N�o gostei, o material � fraco e n�o � o que eu esperava.""";0
+"""Pedi um item e veio outro, p�ssima experi�ncia.""";0
+"""N�o gostei do sabor, achei muito artificial.""";0
+"""A embalagem estava toda amassada, sem cuidado nenhum.""";0
+"""O produto n�o correspondeu �s imagens, muito insatisfeito.""";0
+"""Tentei usar e n�o funcionou como esperado.""";0
+"""Foi uma das piores compras que j� fiz, n�o recomendo.""";0
+"""Atendimento p�ssimo, demoram para responder e n�o ajudam.""";0
+"""Produto com p�ssima qualidade, n�o vale a pena.""";0
+"""Achei que seria melhor, mas o produto n�o atendeu �s expectativas.""";0
+"""Recebi um produto defeituoso, n�o recomendo a loja.""";0
+"""O servi�o � muito lento, n�o volto a comprar aqui.""";0
+"""O produto veio faltando pe�as, n�o gostei.""";0
+"""N�o gostei do design, n�o achei nada bonito.""";0
+"""Comprei e o item que recebi n�o funcionava direito.""";0
+"""Demorou muito para ser entregue, muito frustrante.""";0
+"""O atendimento foi muito ruim, n�o vou voltar a comprar.""";0
+"""Produto n�o � nada do que descrevem, muito decepcionante.""";0
+"""N�o achei que fosse t�o ruim, n�o recomendo.""";0
+"""A experi�ncia foi horr�vel, n�o voltarei a comprar.""";0
+"""N�o vale o pre�o, p�ssima qualidade.""";0
+"""O produto chegou com defeito e n�o recebi suporte adequado.""";0
+"""Comprei e j� quebrou, n�o durou nada.""";0
+"""A entrega foi muito demorada e eu n�o fui informado.""";0
+"""Produto de p�ssima qualidade, muito insatisfeito.""";0
+"""N�o gostei do acabamento, me decepcionou.""";0
+"""A experi�ncia foi frustrante, esperava muito mais.""";0
+"""Comprei e o produto n�o estava funcionando direito.""";0
+"""Tive problemas com o atendimento e o produto n�o chegou no prazo.""";0
+"""O produto veio com defeito e n�o consegui a devolu��o.""";0
+"""Produto de baixa qualidade, n�o vou comprar novamente.""";0
+"""N�o gostei do atendimento, n�o ajudaram quando precisei.""";0
+"""Muito abaixo do esperado, n�o recomendo.""";0
+"""O produto veio danificado, n�o gostei nada.""";0
+"""Tive problemas com a entrega, muito atrasada.""";0
+"""N�o vale o pre�o, produto ruim.""";0
+"""A qualidade do produto n�o � boa, estou bem insatisfeito.""";0
+"""N�o gostei do que comprei, foi um desperd�cio de dinheiro.""";0
+"""Experi�ncia muito ruim, n�o vou voltar a comprar aqui.""";0
+"""A entrega demorou demais e o produto estava avariado.""";0
+"""Produto muito inferior ao anunciado, n�o gostei.""";0
+"""N�o atendeu em nada minhas expectativas, p�ssima compra.""";0
+"""A vista do topo da montanha � espetacular, vale muito a pena a trilha!""";1
+"""O hotel tem um ambiente acolhedor e os funcion�rios s�o muito simp�ticos.""";1
+"""Fui ao restaurante e o prato estava delicioso, uma verdadeira explos�o de sabores.""";1
+"""A paisagem do campo � incr�vel, todo aquele verde � muito relaxante.""";1
+"""O atendimento no aeroporto foi muito eficiente, fiquei impressionado.""";1
+"""A praia � maravilhosa, a �gua � cristalina e a areia � branca.""";1
+"""Os moradores da cidade s�o muito receptivos, me senti em casa.""";1
+"""A arquitetura da cidade � impressionante, cheia de detalhes hist�ricos.""";1
+"""A experi�ncia no parque nacional foi inesquec�vel, a natureza � exuberante.""";1
+"""A comida do restaurante foi excelente, superou todas as minhas expectativas.""";1
+"""O p�r do sol na praia foi algo de tirar o f�lego.""";1
+"""A estrada at� a cidade pequena � uma viagem charmosa, cheia de paisagens lindas.""";1
+"""A hospedagem foi perfeita, o chal� tinha tudo o que eu precisava.""";1
+"""A cidade � muito limpa e organizada, adorei a estrutura.""";1
+"""Fui ao museu e fiquei encantado com as exposi��es, muito bem organizado.""";1
+"""A festa foi maravilhosa, super bem decorada e a comida deliciosa.""";1
+"""O guia tur�stico era muito competente, me mostrou lugares incr�veis.""";1
+"""Fiquei encantado com o atendimento na loja, muito atenciosos.""";1
+"""A experi�ncia no spa foi incr�vel, me senti completamente relaxado.""";1
+"""O passeio de barco foi maravilhoso, conseguimos ver golfinhos!""";1
+"""O clima estava perfeito, um dia de sol, ideal para uma caminhada.""";1
+"""A pra�a estava super tranquila e cheia de �rvores, �timo lugar para passeios.""";1
+"""O servi�o foi excelente, desde a chegada at� a despedida.""";1
+"""A m�sica ao vivo na festa foi fant�stica, todo mundo se divertiu.""";1
+"""Os produtos da loja s�o de excelente qualidade, vale cada centavo.""";1
+"""A vis�o da cidade � noite � simplesmente deslumbrante, um cen�rio perfeito.""";1
+"""A casa de campo em que fiquei hospedado � incr�vel, super aconchegante.""";1
+"""Fui ao teatro e a pe�a foi maravilhosa, um espet�culo inesquec�vel.""";1
+"""O lugar � muito bem cuidado, com jardins lindos e bem mantidos.""";1
+"""O caf� da manh� no hotel foi delicioso, com v�rias op��es fresquinhas.""";1
+"""Adorei a vista do apartamento, tinha uma vis�o incr�vel do mar.""";1
+"""A cultura local � rica e muito interessante, aprendi muito com a visita.""";1
+"""O atendimento na cl�nica foi excepcional, todos muito profissionais.""";1
+"""A trilha foi maravilhosa, a natureza � preservada e bem cuidada.""";1
+"""A culin�ria do restaurante � fant�stica, com pratos tradicionais muito saborosos.""";1
+"""O museu � muito interessante, com exposi��es que valem a pena ser visitadas.""";1
+"""O passeio de bal�o foi uma experi�ncia �nica, a vista l� de cima era impressionante.""";1
+"""O mercado local tem uma variedade incr�vel de produtos frescos, fiquei encantado.""";1
+"""A atmosfera da cidade � muito acolhedora, � imposs�vel n�o se apaixonar.""";1
+"""Fui em um evento de arte e fiquei muito impressionado com o talento dos artistas.""";1
+"""A vista do mirante era de tirar o f�lego, um panorama perfeito da cidade.""";1
+"""O atendimento no restaurante foi r�pido e o gar�om muito simp�tico.""";1
+"""O parque tem uma infraestrutura excelente, super bem organizado e limpo.""";1
+"""O clima � perfeito para passeios ao ar livre, adorei a viagem.""";1
+"""O ambiente do caf� � super aconchegante, perfeito para uma tarde tranquila.""";1
+"""O guia nos explicou tudo com detalhes, nos deu dicas incr�veis.""";1
+"""As lojas de souvenires s�o incr�veis, com coisas que realmente representam a cultura local.""";1
+"""A m�sica no bar era excelente, a banda realmente arrasou.""";1
+"""O ambiente do hotel � muito tranquilo, perfeito para descansar.""";1
+"""O p�r do sol no campo � algo de outro mundo, recomendo para todos.""";1
+"""O restaurante estava muito sujo, n�o tive uma boa experi�ncia.""";0
+"""A cidade � muito barulhenta, dif�cil de descansar com tanto som.""";0
+"""O produto que comprei n�o corresponde ao que foi anunciado, estou decepcionado.""";0
+"""O atendimento no hotel foi p�ssimo, ningu�m parecia se importar conosco.""";0
+"""A praia estava cheia de lixo, o que me deixou muito desapontado.""";0
+"""O clima estava t�o quente que nem consegui aproveitar o passeio.""";0
+"""O passeio de barco foi bem abaixo das minhas expectativas, n�o foi legal.""";0
+"""O hotel � antigo e mal conservado, n�o vale o pre�o cobrado.""";0
+"""A comida estava fria e sem gosto, uma grande decep��o.""";0
+"""O servi�o de transporte estava desorganizado e demorou muito.""";0
+"""A cidade estava lotada, n�o consegui aproveitar os pontos tur�sticos.""";0
+"""O guia tur�stico n�o sabia muito sobre o local, n�o gostei da experi�ncia.""";0
+"""O parque estava superlotado, e n�o tinha como curtir com tanta gente.""";0
+"""A vista do mirante estava obstru�da por �rvores, n�o consegui aproveitar a paisagem.""";0
+"""O lugar estava t�o sujo que preferi ir embora mais cedo.""";0
+"""A m�sica no restaurante estava muito alta, n�o consegui aproveitar o jantar.""";0
+"""O atendimento na loja foi muito ruim, o vendedor parecia n�o se importar.""";0
+"""O lugar estava muito cheio, e a experi�ncia foi mais estressante do que agrad�vel.""";0
+"""O ar condicionado n�o funcionava no hotel, foi desconfort�vel.""";0
+"""A praia estava cheia de algas, n�o consegui aproveitar a �gua.""";0
+"""O quarto do hotel estava mal limpo, e tinha mofo no banheiro.""";0
+"""O transporte para o local de excurs�o estava atrasado, perdi parte do passeio.""";0
+"""A comida estava supercara e n�o valia o que cobram.""";0
+"""O lugar estava muito quente, fiquei desconfort�vel durante toda a visita.""";0
+"""A cidade estava muito polu�da, o ar estava insuport�vel.""";0
+"""O atendimento foi muito demorado, me senti negligenciado.""";0
+"""O hotel n�o tem boa infraestrutura, fiquei bem insatisfeito.""";0
+"""O espet�culo no teatro foi um fiasco, n�o gostei nada.""";0
+"""O local estava lotado de turistas, n�o consegui relaxar.""";0
+"""O servi�o de quarto do hotel demorou horas para trazer o que eu pedi.""";0
+"""A vista que eu esperava no mirante n�o era t�o boa quanto disseram.""";0
+"""A festa foi um caos, muita confus�o e falta de organiza��o.""";0
+"""A cidade estava t�o fria que n�o consegui aproveitar os passeios ao ar livre.""";0
+"""O guia tur�stico foi mal informado, n�o gostei do passeio.""";0
+"""O hotel estava muito barulhento, n�o consegui descansar.""";0
+"""O transporte estava superlotado e foi bem desconfort�vel.""";0
+"""A comida foi t�o ruim que mal consegui terminar o prato.""";0
+"""O lugar n�o tinha nada do que eu esperava, foi uma decep��o total.""";0
+"""O atendimento na cl�nica foi muito lento e mal organizado.""";0
+"""A paisagem da cidade n�o era t�o bonita quanto eu imaginei.""";0
+"""O produto veio com defeito e o atendimento n�o foi eficiente.""";0
+"""O servi�o foi horr�vel, o funcion�rio foi rude e pouco prestativo.""";0
+"""A cidade estava cheia de turistas e n�o conseguia fazer nada direito.""";0
+"""O restaurante demorou muito para trazer a comida e ainda estava fria.""";0
+"""O mercado local estava desorganizado e os pre�os eram abusivos.""";0
+"""O lugar estava muito sujo e mal cuidado, fiquei desapontado.""";0
+"""O transporte foi superdemorado e a viagem n�o valeu a pena.""";0
+"""O evento foi mal organizado, fiquei muito frustrado.""";0
+"""A loja estava t�o desorganizada que n�o consegui encontrar o que queria.""";0
+"""O lugar estava t�o quente que fiquei suando o tempo todo, uma experi�ncia desagrad�vel.""";0
+"""Estava fedendo!""";0
+"""Que cheiro incr�vel!""";1
