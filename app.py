@@ -6,12 +6,10 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.models import load_model
 import pickle
 
-# Baixe os recursos do NLTK apenas na primeira execução
 nltk.download('stopwords')
 
 app = Flask(__name__)
 
-# Carregue os recursos
 stop_words = set(stopwords.words('portuguese'))
 with open('model/tokenizer.pkl', 'rb') as handle:
     tokenizer = pickle.load(handle)

@@ -58,7 +58,6 @@ os.system("clear")
 print(f'Acurácia no conjunto de teste: {accuracy * 100:.2f}%')
 
 
-# Salvar o modelo treinado e o tokenizer
 model.save("model/sentiment_model.h5")
 import pickle
 
